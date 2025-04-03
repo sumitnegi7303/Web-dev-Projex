@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: lightgoldenrodyellow;
+}
+
+.card{
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background: #fff;
+    text-align: center;
+    padding: 25px;
+}
+.card img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.h2{
+    margin: 15px 0;
+    font-size: 1.5em;
+}
